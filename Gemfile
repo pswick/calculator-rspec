@@ -1,3 +1,10 @@
-source "https://rubygems.org"
+source 'http://rubygems.org'
 
-gem "rspec", "~> 3.0"
+gem 'cucumber'
+gem 'rspec'
+gem 'watir-webdriver'
+gem 'page-object'
+gem 'sinatra'
+gem 'rake'
+gem 'faker'
+gem 'factory_girl'
